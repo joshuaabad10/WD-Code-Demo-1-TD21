@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  My Personal Website Portfolio
 </div>
 
 <br />
@@ -61,7 +61,7 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project-Website Personal Portfolio
-- Whats the purpose-Academic Task
+- Whats the purpose-Academic Task for Web Designing
 - What are key components
 - What technology used and how it is used
 
