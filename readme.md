@@ -60,15 +60,15 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project-Website Personal Portfolio
-- Whats the purpose-Academic Task for Web Designing
-- What are key components
+- What is the project  -Website Personal Portfolio
+- Whats the purpose - Academic Task for Web Designing
+- What are key components - MultiPage Website
 - What technology used and how it is used - HTML and CSS - I used HTML to put the elements I need. I used CSS to edit those elements.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- MultiPage Website/Single Page Website - MultiPage Website
 - Parallax transition
 - Transactional
 
