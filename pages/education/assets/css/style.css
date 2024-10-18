@@ -1,0 +1,91 @@
+.abad{
+    margin-top: 12.50rem;
+    margin-left: 37.50rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 1.5rem;
+}
+.educationlist{
+    position: absolute;
+    margin-left: 6.25rem;
+    margin-right: 3.13rem;
+    margin-top: -15rem;
+    font-size: 1.5rem;
+    color:black
+}
+
+.b1{
+    margin-left: 3.13rem;
+    margin-right: 3.13rem;
+    margin-top: 3.13rem;
+    font-size: 1.5rem;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    cursor: pointer;
+}
+.b2{
+    margin-left: 3.13rem;
+    margin-right: 3.13rem;
+    margin-top: 3.13rem;
+    font-size: 1.5rem;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    cursor: pointer;
+}
+.b3{
+    margin-left: 3.13rem;
+    margin-right: 3.13rem;
+    margin-top: 3.13rem;
+    font-size: 1.5rem;
+    color: #bea14c;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.b1:hover{
+    color: dimgray;
+}
+.b2:hover{
+    color: dimgray;
+}
+.b3:hover{
+    color: dimgray;
+}
+body{
+    background-color: #3a5a4d;
+    display: flex;
+    align-items: center;
+}
+.column1{
+    position: absolute;
+    margin-top: 69rem;
+    font-size: 1rem;
+    margin-left: 30rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fdf6e4;
+}
+.column2{
+    position: absolute;
+    margin-top: 80rem;
+    font-size: 1rem;
+    margin-left: 70rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fdf6e4;
+}
+
+.rectangle {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: rgb(255, 240, 109);
+    border: 1px solid rgb(3, 77, 16);
+    color: #191c27;
+    border-radius: 5px;
+}
+.thelogo{
+    position: absolute;
+    opacity: 30%;
+    margin-top: 50rem;
+    margin-left: 40rem;
+}

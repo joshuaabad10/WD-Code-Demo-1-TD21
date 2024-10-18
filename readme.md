@@ -6,10 +6,10 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo.png" alt="LOGO" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">MyWebsite</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -118,3 +118,7 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+|CODING GUIDES| I wanted to do how to do certain stuff for my website|https://www.w3schools.com/css/css_positioning.asp#:~:text=An%20element%20with%20position%3A%20relative,gap%20left%20by%20the%20element.
+
+| Hover Color | I wanted to learn how to add color when clickable text is hovered|https://stackoverflow.com/questions/26405414/glow-effect-on-all-buttons-but-only-want-it-on-4#:~:text=Add%20a%20class%20to%20the,glowbutton%3Ahover%20.&text=You'd%20want%20to%20add,%7B%20...%20%7D%20.|

@@ -1,0 +1,131 @@
+.taas {
+    display: flex;
+}
+.hp1 {
+    width:60%;
+    height: 100%;
+}
+
+.hello{ 
+    position:absolute;
+    color: #F9F6F2;
+    margin-left: -21rem;
+    margin-top: 6rem;
+    font-size: 2rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.intro{
+    position: absolute;
+    color: #F9F6F2;
+    margin-left: -32rem;
+    margin-top: 25rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+img {
+    width: 6.25rem;
+    height: 100;
+}
+body {
+    background-color: #3a5a4d;
+    position: relative;
+}
+.homelist {
+    list-style: none;
+    display:flex;
+}
+.homeitem {
+    margin-left: 3.13rem;
+    margin-right: 3.13rem;
+    margin-top: 3.13rem;
+    font-size: 1.5rem;
+    color: #F9F6F2;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.btn1 {
+    text-decoration: underline;
+    color:#bea14c;
+    margin-left: 3.13rem;
+    margin-right: 3.13rem;
+    margin-top: 3.13rem;
+    font-size: 1.5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+}
+.btn1:hover{
+    color: dimgray;
+}
+.btn2:hover{
+    color: dimgray;
+}
+.btn3:hover{
+    color: dimgray;
+}
+.btn2 {
+    margin-left: 3.13rem;
+    margin-right: 3.13rem;
+    margin-top: 3.13rem;
+    font-size: 1.5rem;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn3 {
+    margin-left: 3.13rem;
+    margin-right: 3.13rem;
+    margin-top: 3.13rem;
+    font-size: 1.5rem;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    cursor: pointer;
+}
+.homepage{
+    display: flex;
+    z-index: 1;
+}
+.josh{
+    position: absolute;
+    margin-top: 9rem;
+    left: 70rem;
+    width: auto;
+    height: 43.75rem;
+}
+.socmedicons {
+    display: flex;
+    position: absolute;
+    margin-top: 36rem;
+    margin-left: -40rem;
+
+}
+.tticon:hover{
+    transform: scale(1.3);
+
+}
+.igicon:hover{
+    transform: scale(1.3);
+}
+.fbicon:hover{
+    transform: scale(1.3);
+}
+.fbicon{
+    margin-right: -1.88rem;
+}
+.icons {
+    margin-left: 12.50rem;
+    margin-top: 9.38rem;
+}
+.tticon{
+    height: 8.44rem;
+    width: 8.44rem;
+    margin-top: -0.94rem;
+}
+.msha{
+    position: absolute;
+    color: #afafaf;
+    margin-left: -23rem;
+    margin-top: 12rem;
+    font-size: 1.5rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
