@@ -60,8 +60,8 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
+- What is the project-Website Personal Portfolio
+- Whats the purpose-Academic Task
 - What are key components
 - What technology used and how it is used
 
